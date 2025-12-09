@@ -32,3 +32,8 @@ AI-анализ лабораторных показателей — инстру
 - Ввод: POST `/api/analyze/lab` с JSON.
 - Результат: GET `/api/report/{id}`
 - Демо: Тестовые данные в repo.
+
+## Автор
+Квачёв Александр — Go-разработчик  
+GitHub: [AleksKAG](https://github.com/AleksKAG)  
+Telegram: [@Kurtalex27](https://t.me/Kurtalex27)
